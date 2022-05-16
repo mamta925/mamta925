@@ -1,7 +1,7 @@
 # Namaste there, I'm Mamta -👋 
 
 
-[![Professional network](images/social/linkedin.png)](https://linkedin.com/in/mamta-rathore-01b1779b)
+[![Professional network](images/social/linkedin.png)](www.linkedin.com/in/mamta-rathore-01b1779b)
 [![Social utility](images/social/facebook.png)](https://m.facebook.com/mamta925)
 [![Share media](images/social/instagram.png)](https://www.instagram.com/mamta_rajput_08/)
 [![Let's Tweet](images/social/twitter.png)](https://twitter.com/mamta_rathore_)
