@@ -18,14 +18,16 @@ I'm a developer who loves clean code, solving real-world problems, and having fu
 # 👩‍💻 About Me
 I'm a Coder, Developer, and Dreamer!!
 
-- 🌱 Currently diving deep into system design, architecture patterns, and AI-powered development
-- 🎯 2025 Goals: Mentor more  | Build impactful projects | Speak at a tech meetup.
+- Currently diving deep into system design, architecture patterns, and AI-powered development
+- 2025 Goals: Mentor more  | Build impactful projects | Speak at a tech meetup.
 - Fun fact: I love playing table tennis 🏓, badminton 🏸, and dancing 💃 — it keeps my creativity alive!
 - Passionate about building reliable, high-performance systems and sharing what I learn.
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/6f46c91f-9d5e-40d4-8f62-e9b2e98eb2b3) 
    -  📝 Read my blog:  
     [How I Passed the AWS Developer Associate Exam (Score: 885/1000)](https://medium.com/@mamtarathore/how-i-passed-the-aws-certified-developer-associate-exam-with-a-score-of-885-1000-59d2edbfc3bf)
 
+
+<br />
 
 ## 💼 My Role at Booking Holdings
 
@@ -40,6 +42,8 @@ As a Senior Software Engineer I at Booking Holdings, I:
 - Advocate best practices including TDD, pair programming, and mentorship.
 
 ---
+
+<br />
 ## 🛠️ Languages and Tools
 
 ### Technologies & Frameworks:
@@ -53,7 +57,7 @@ As a Senior Software Engineer I at Booking Holdings, I:
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br /><br />
+<br />
 
 ### ☁️ DevOps & Cloud:
 <img align="left" alt="AWS" width="26px" src="images/social/aws.svg" />
